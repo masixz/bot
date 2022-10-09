@@ -1,0 +1,62 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "Hello"
+      ],
+      "responses": [
+        "Hey",
+        "Hello",
+        "Hi there, what can I do for you?",
+        "Hi there, how can I help?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye", "Goodbye"],
+      "responses": [
+        "See you later, thanks for visiting",
+        "Have a nice day",
+        "Bye! Come back again soon."
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["Thanks", "Thank you"],
+      "responses": ["Happy to help!", "Any time!", "My pleasure"]
+    },
+    {
+      "tag": "items",
+      "patterns": [
+        "Which items do you have?",
+        "What are there?"
+      ],
+      "responses": [
+        "Iron",
+        "Gold",
+        "Platinum"
+      ]
+    },
+    {
+      "tag": "MAT0002",
+      "patterns": [
+        "MAT0002",
+        "16MnCr5 EN 10084"
+      ],
+      "responses": [
+        "MAT0002",
+        "dimension 16",
+        "Unit of measure M",
+        "EN 10060",
+        "16MnCr5 EN 10084",
+        "Case hardening steel",
+        "Mass  1.57834 kg",
+        "Density 0.00000785",
+        "eur_kg 14"
+      ]
+    }
+  ]
+}
