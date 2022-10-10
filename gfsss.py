@@ -1,0 +1,2 @@
+x = "moi"
+print(x)
