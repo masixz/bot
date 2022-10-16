@@ -4,19 +4,22 @@
     padding: 0;
 }
 
+
 body {
     font-family: 'Nunito', sans-serif;
     font-weight: 400;
     font-size: 100%;
     background: #F1F1F1;
+    
 }
 
 *, html {
-    --primaryGradient: linear-gradient(93.12deg, #CCCCCC 0.52%, #004A6B 100%);
-    --secondaryGradient: linear-gradient(268.91deg, #CCCCCC -2.14%,#CCCCCC  99.69%);
+    --primaryGradient: linear-gradient(93.12deg, #CCCCCC 5.52%, #004A6B 100%);
+    --secondaryGradient: linear-gradient(268.91deg, #FF7321 5.5%,#CCCCCC  100%);
     --primaryBoxShadow: 0px 10px 15px rgba(0, 0, 0, 0.1);
     --secondaryBoxShadow: 0px -10px 15px rgba(0, 0, 0, 0.1);
     --primary: #076794;
+    
 }
 
 /* CHATBOX
@@ -25,6 +28,7 @@ body {
     position: absolute;
     bottom: 30px;
     right: 30px;
+    
 }
 
 /* CONTENT IS CLOSE */
@@ -37,6 +41,7 @@ body {
     z-index: -123456;
     opacity: 0;
     transition: all .5s ease-in-out;
+
 }
 
 /* CONTENT ISOPEN */
@@ -50,14 +55,18 @@ body {
 /* BUTTON */
 .chatbox__button {
     text-align: right;
+    
 }
 
 .send__button {
     padding: 6px;
+    border-radius: 25px;
     background: transparent;
     border: none;
     outline: none;
     cursor: pointer;
+    background:#004A6B;
+
 }
 
 
@@ -100,7 +109,8 @@ body {
     background: #f9f9f9;
     height: 450px;
     width: 350px;
-    box-shadow: 0px 0px 15px rgb(0, 0, 0);
+    border-radius: 25px;
+    box-shadow: 10px 10px 10px rgb(50, 44, 44);
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
 }
@@ -180,6 +190,9 @@ body {
     border-radius: 30px;
     text-align: left;
 }
+.photo {
+    background-color: transparent;
+}
 
 .chatbox__send--footer {
     color: white;
@@ -188,13 +201,13 @@ body {
 .chatbox__button button,
 .chatbox__button button:focus,
 .chatbox__button button:visited {
-    padding: 10px;
-    background: white;
+    padding: 7px;
+    background: #FF7321;
     border: none;
     outline: none;
-    border-top-left-radius: 50px;
-    border-top-right-radius: 50px;
-    border-bottom-left-radius: 50px;
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
+    border-bottom-left-radius: 40px;
     box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.1);
     cursor: pointer;
 }
