@@ -1,0 +1,1109 @@
+[
+    {
+        "index": 0,
+        "MAT0001": {
+            "Name: ": "ROUND BAR"
+        },
+        "MAT0002": {
+            "Name: ": "ROUND BAR"
+        },
+        "MAT0003": {
+            "Name: ": "ROUND BAR"
+        },
+        "MAT0004": {
+            "Name: ": "ROUND BAR"
+        },
+        "MAT0005": {
+            "Name: ": "ROUND BAR"
+        },
+        "MAT0006": {
+            "Name: ": "ROUND BAR"
+        },
+        "MAT0007": {
+            "Name: ": "ROUND BAR"
+        },
+        "MAT0008": {
+            "Name: ": "ROUND BAR"
+        },
+        "MAT0009": {
+            "Name: ": "ROUND BAR"
+        },
+        "MAT0010": {
+            "Name: ": "ROUND BAR"
+        },
+        "MAT0011": {
+            "Name: ": "ROUND BAR"
+        },
+        "MAT0012": {
+            "Name: ": "ROUND BAR"
+        },
+        "MAT0013": {
+            "Name: ": "ROUND BAR"
+        },
+        "MAT0014": {
+            "Name: ": "ROUND BAR"
+        },
+        "MAT0015": {
+            "Name: ": "ROUND BAR"
+        },
+        "MAT0016": {
+            "Name: ": "ROUND BAR"
+        },
+        "MAT0017": {
+            "Name: ": "ROUND BAR"
+        },
+        "MAT0018": {
+            "Name: ": "ROUND BAR"
+        },
+        "MAT0019": {
+            "Name: ": "ROUND BAR"
+        },
+        "MAT0020": {
+            "Name: ": "ROUND BAR"
+        },
+        "MAT0021": {
+            "Name: ": "ROUND BAR"
+        },
+        "MAT0022": {
+            "Name: ": "ROUND BAR"
+        },
+        "MAT0023": {
+            "Name: ": "ROUND BAR"
+        },
+        "MAT0024": {
+            "Name: ": "ROUND BAR"
+        },
+        "MAT0025": {
+            "Name: ": "ROUND BAR"
+        },
+        "MAT0026": {
+            "Name: ": "ROUND BAR"
+        },
+        "MAT0027": {
+            "Name: ": "ROUND BAR"
+        },
+        "MAT0028": {
+            "Name: ": "ROUND BAR"
+        },
+        "MAT0029": {
+            "Name: ": "ROUND BAR"
+        },
+        "MAT0030": {
+            "Name: ": "ROUND BAR"
+        },
+        "MAT0031": {
+            "Name: ": "ROUND BAR"
+        },
+        "MAT0032": {
+            "Name: ": "ROUND BAR"
+        },
+        "MAT0033": {
+            "Name: ": "ROUND BAR"
+        },
+        "MAT0034": {
+            "Name: ": "ROUND BAR"
+        },
+        "MAT0035": {
+            "Name: ": "ROUND BAR"
+        },
+        "MAT0036": {
+            "Name: ": "ROUND BAR"
+        },
+        "MAT0037": {
+            "Name: ": "ROUND BAR"
+        },
+        "MAT0038": {
+            "Name: ": "ROUND BAR"
+        },
+        "MAT0039": {
+            "Name: ": "ROUND BAR"
+        },
+        "MAT0040": {
+            "Name: ": "ROUND BAR"
+        }
+    },
+    {
+        "index": 1,
+        "MAT0001": {
+            "Dimensions: ": "22h11"
+        },
+        "MAT0002": {
+            "Dimensions: ": "16"
+        },
+        "MAT0003": {
+            "Dimensions: ": "35"
+        },
+        "MAT0004": {
+            "Dimensions: ": "12"
+        },
+        "MAT0005": {
+            "Dimensions: ": "250"
+        },
+        "MAT0006": {
+            "Dimensions: ": "80"
+        },
+        "MAT0007": {
+            "Dimensions: ": "40"
+        },
+        "MAT0008": {
+            "Dimensions: ": "72"
+        },
+        "MAT0009": {
+            "Dimensions: ": "65"
+        },
+        "MAT0010": {
+            "Dimensions: ": "38"
+        },
+        "MAT0011": {
+            "Dimensions: ": "45"
+        },
+        "MAT0012": {
+            "Dimensions: ": "45"
+        },
+        "MAT0013": {
+            "Dimensions: ": "100"
+        },
+        "MAT0014": {
+            "Dimensions: ": "30"
+        },
+        "MAT0015": {
+            "Dimensions: ": "50"
+        },
+        "MAT0016": {
+            "Dimensions: ": "40"
+        },
+        "MAT0017": {
+            "Dimensions: ": "170"
+        },
+        "MAT0018": {
+            "Dimensions: ": "140"
+        },
+        "MAT0019": {
+            "Dimensions: ": "300"
+        },
+        "MAT0020": {
+            "Dimensions: ": "30"
+        },
+        "MAT0021": {
+            "Dimensions: ": "14"
+        },
+        "MAT0022": {
+            "Dimensions: ": "85"
+        },
+        "MAT0023": {
+            "Dimensions: ": "23"
+        },
+        "MAT0024": {
+            "Dimensions: ": "100"
+        },
+        "MAT0025": {
+            "Dimensions: ": "46"
+        },
+        "MAT0026": {
+            "Dimensions: ": "75"
+        },
+        "MAT0027": {
+            "Dimensions: ": "16"
+        },
+        "MAT0028": {
+            "Dimensions: ": "40"
+        },
+        "MAT0029": {
+            "Dimensions: ": "55"
+        },
+        "MAT0030": {
+            "Dimensions: ": "30"
+        },
+        "MAT0031": {
+            "Dimensions: ": "30h11"
+        },
+        "MAT0032": {
+            "Dimensions: ": "140"
+        },
+        "MAT0033": {
+            "Dimensions: ": "65"
+        },
+        "MAT0034": {
+            "Dimensions: ": "12"
+        },
+        "MAT0035": {
+            "Dimensions: ": "90"
+        },
+        "MAT0036": {
+            "Dimensions: ": "220"
+        },
+        "MAT0037": {
+            "Dimensions: ": "10"
+        },
+        "MAT0038": {
+            "Dimensions: ": "300"
+        },
+        "MAT0039": {
+            "Dimensions: ": "70"
+        },
+        "MAT0040": {
+            "Dimensions: ": "20"
+        }
+    },
+    {
+        "index": 2,
+        "MAT0001": {
+            "Unit of measure: ": "M"
+        },
+        "MAT0002": {
+            "Unit of measure: ": "M"
+        },
+        "MAT0003": {
+            "Unit of measure: ": "M"
+        },
+        "MAT0004": {
+            "Unit of measure: ": "M"
+        },
+        "MAT0005": {
+            "Unit of measure: ": "M"
+        },
+        "MAT0006": {
+            "Unit of measure: ": "M"
+        },
+        "MAT0007": {
+            "Unit of measure: ": "M"
+        },
+        "MAT0008": {
+            "Unit of measure: ": "M"
+        },
+        "MAT0009": {
+            "Unit of measure: ": "M"
+        },
+        "MAT0010": {
+            "Unit of measure: ": "M"
+        },
+        "MAT0011": {
+            "Unit of measure: ": "M"
+        },
+        "MAT0012": {
+            "Unit of measure: ": "M"
+        },
+        "MAT0013": {
+            "Unit of measure: ": "M"
+        },
+        "MAT0014": {
+            "Unit of measure: ": "M"
+        },
+        "MAT0015": {
+            "Unit of measure: ": "M"
+        },
+        "MAT0016": {
+            "Unit of measure: ": "M"
+        },
+        "MAT0017": {
+            "Unit of measure: ": "M"
+        },
+        "MAT0018": {
+            "Unit of measure: ": "M"
+        },
+        "MAT0019": {
+            "Unit of measure: ": "M"
+        },
+        "MAT0020": {
+            "Unit of measure: ": "M"
+        },
+        "MAT0021": {
+            "Unit of measure: ": "M"
+        },
+        "MAT0022": {
+            "Unit of measure: ": "M"
+        },
+        "MAT0023": {
+            "Unit of measure: ": "M"
+        },
+        "MAT0024": {
+            "Unit of measure: ": "M"
+        },
+        "MAT0025": {
+            "Unit of measure: ": "M"
+        },
+        "MAT0026": {
+            "Unit of measure: ": "M"
+        },
+        "MAT0027": {
+            "Unit of measure: ": "M"
+        },
+        "MAT0028": {
+            "Unit of measure: ": "M"
+        },
+        "MAT0029": {
+            "Unit of measure: ": "M"
+        },
+        "MAT0030": {
+            "Unit of measure: ": "M"
+        },
+        "MAT0031": {
+            "Unit of measure: ": "M"
+        },
+        "MAT0032": {
+            "Unit of measure: ": "M"
+        },
+        "MAT0033": {
+            "Unit of measure: ": "M"
+        },
+        "MAT0034": {
+            "Unit of measure: ": "M"
+        },
+        "MAT0035": {
+            "Unit of measure: ": "M"
+        },
+        "MAT0036": {
+            "Unit of measure: ": "M"
+        },
+        "MAT0037": {
+            "Unit of measure: ": "M"
+        },
+        "MAT0038": {
+            "Unit of measure: ": "M"
+        },
+        "MAT0039": {
+            "Unit of measure: ": "M"
+        },
+        "MAT0040": {
+            "Unit of measure: ": "M"
+        }
+    },
+    {
+        "index": 3,
+        "MAT0001": {
+            "International standard: ": "EN 10278"
+        },
+        "MAT0002": {
+            "International standard: ": "EN 10060"
+        },
+        "MAT0003": {
+            "International standard: ": "EN 10060"
+        },
+        "MAT0004": {
+            "International standard: ": "EN 10060"
+        },
+        "MAT0005": {
+            "International standard: ": "EN 10060"
+        },
+        "MAT0006": {
+            "International standard: ": "EN 10060"
+        },
+        "MAT0007": {
+            "International standard: ": "EN ISO 8062-3"
+        },
+        "MAT0008": {
+            "International standard: ": "EN ISO 8062-3"
+        },
+        "MAT0009": {
+            "International standard: ": null
+        },
+        "MAT0010": {
+            "International standard: ": "EN 10060"
+        },
+        "MAT0011": {
+            "International standard: ": "EN 10060"
+        },
+        "MAT0012": {
+            "International standard: ": "EN 10060"
+        },
+        "MAT0013": {
+            "International standard: ": "EN 10060"
+        },
+        "MAT0014": {
+            "International standard: ": "EN 10060"
+        },
+        "MAT0015": {
+            "International standard: ": "EN 10060"
+        },
+        "MAT0016": {
+            "International standard: ": "EN 10060"
+        },
+        "MAT0017": {
+            "International standard: ": "EN 10060"
+        },
+        "MAT0018": {
+            "International standard: ": "EN 10060"
+        },
+        "MAT0019": {
+            "International standard: ": "EN 10060"
+        },
+        "MAT0020": {
+            "International standard: ": "EN 10060"
+        },
+        "MAT0021": {
+            "International standard: ": "EN 10060"
+        },
+        "MAT0022": {
+            "International standard: ": "EN 10060"
+        },
+        "MAT0023": {
+            "International standard: ": "EN 10060"
+        },
+        "MAT0024": {
+            "International standard: ": "EN 10060"
+        },
+        "MAT0025": {
+            "International standard: ": "EN 10060"
+        },
+        "MAT0026": {
+            "International standard: ": "EN ISO 8062-3"
+        },
+        "MAT0027": {
+            "International standard: ": "EN 12164"
+        },
+        "MAT0028": {
+            "International standard: ": "EN 12163"
+        },
+        "MAT0029": {
+            "International standard: ": "EN 10060"
+        },
+        "MAT0030": {
+            "International standard: ": "EN 10060"
+        },
+        "MAT0031": {
+            "International standard: ": "EN 10278"
+        },
+        "MAT0032": {
+            "International standard: ": "EN 10272"
+        },
+        "MAT0033": {
+            "International standard: ": "EN 10060"
+        },
+        "MAT0034": {
+            "International standard: ": "EN 12163"
+        },
+        "MAT0035": {
+            "International standard: ": "EN 10060"
+        },
+        "MAT0036": {
+            "International standard: ": "EN 10060"
+        },
+        "MAT0037": {
+            "International standard: ": "EN 10060"
+        },
+        "MAT0038": {
+            "International standard: ": "EN 10060"
+        },
+        "MAT0039": {
+            "International standard: ": "EN 10060"
+        },
+        "MAT0040": {
+            "International standard: ": "EN 10060"
+        }
+    },
+    {
+        "index": 4,
+        "MAT0001": {
+            "Basic material: ": "11SMn30    EN ISO 683-4"
+        },
+        "MAT0002": {
+            "Basic material: ": "16MnCr5    EN 10084"
+        },
+        "MAT0003": {
+            "Basic material: ": "20NiCrMo2-2    EN 10084"
+        },
+        "MAT0004": {
+            "Basic material: ": "21CrMoV5-7    EN 10269"
+        },
+        "MAT0005": {
+            "Basic material: ": "34CrNiMo6    EN 10083-3"
+        },
+        "MAT0006": {
+            "Basic material: ": "42CrMo4+QT    EN 10083-3"
+        },
+        "MAT0007": {
+            "Basic material: ": "CuAl10Fe5Ni5-C-GZ    EN 1982"
+        },
+        "MAT0008": {
+            "Basic material: ": "CuSn12-C    EN 1982"
+        },
+        "MAT0009": {
+            "Basic material: ": "EN-GJS-700-2    EN 1563"
+        },
+        "MAT0010": {
+            "Basic material: ": "X17CrNi16-2    EN 10088-3"
+        },
+        "MAT0011": {
+            "Basic material: ": "X20Cr13    EN 10088-3"
+        },
+        "MAT0012": {
+            "Basic material: ": "X2CrNiMoN22-5-3    EN 10088-3"
+        },
+        "MAT0013": {
+            "Basic material: ": "X39CrMo17-1    EN 10088-3"
+        },
+        "MAT0014": {
+            "Basic material: ": "X5CrNiMo17-12-2    EN 10088-3"
+        },
+        "MAT0015": {
+            "Basic material: ": "X6CrNiMoTi17-12-2    EN 10088-3"
+        },
+        "MAT0016": {
+            "Basic material: ": "NiCr20TiAl+AT    EN 10269"
+        },
+        "MAT0017": {
+            "Basic material: ": "18CrNiMo7-6+A    EN 10084"
+        },
+        "MAT0018": {
+            "Basic material: ": "20MnCr5+A    EN ISO 683-3"
+        },
+        "MAT0019": {
+            "Basic material: ": "13CrMo4-5    EN 10273"
+        },
+        "MAT0020": {
+            "Basic material: ": "31CrMoV9+QT    EN 10085"
+        },
+        "MAT0021": {
+            "Basic material: ": "X5CrNi18-10    EN 10088-3"
+        },
+        "MAT0022": {
+            "Basic material: ": "X4CrNiMo16-5-1    EN 10088-3"
+        },
+        "MAT0023": {
+            "Basic material: ": "X6NiCrTiMoV"
+        },
+        "MAT0024": {
+            "Basic material: ": "X39CrMo17-1+QT    EN 10088-3"
+        },
+        "MAT0025": {
+            "Basic material: ": "X3CrNiMoN27-5-2    EN 10088-3"
+        },
+        "MAT0026": {
+            "Basic material: ": "CuAl10Fe5Ni5-C-GC    EN 1982"
+        },
+        "MAT0027": {
+            "Basic material: ": "CuZn37Mn3Al2PbSi    EN 12164"
+        },
+        "MAT0028": {
+            "Basic material: ": "CuNi10Fe1Mn    EN 12163"
+        },
+        "MAT0029": {
+            "Basic material: ": "20NiCrMo2-2+A    EN ISO 683-3"
+        },
+        "MAT0030": {
+            "Basic material: ": "X22CrMoV12-1+QT    EN 10269"
+        },
+        "MAT0031": {
+            "Basic material: ": "11SMnPb30    EN 10087"
+        },
+        "MAT0032": {
+            "Basic material: ": "X2CrNiMoN22-5-3    EN 10272     "
+        },
+        "MAT0033": {
+            "Basic material: ": "42CrMoS4+QT    EN 10083-3"
+        },
+        "MAT0034": {
+            "Basic material: ": "CuAl10Ni5Fe4    EN 12163"
+        },
+        "MAT0035": {
+            "Basic material: ": "X8CrCoNiMo10-6    EN 10302"
+        },
+        "MAT0036": {
+            "Basic material: ": "X2CrNi18-9    EN 10088-3"
+        },
+        "MAT0037": {
+            "Basic material: ": "X10CrAlSi18    EN 10095"
+        },
+        "MAT0038": {
+            "Basic material: ": "X2CrNiMo17-12-2    EN 10272"
+        },
+        "MAT0039": {
+            "Basic material: ": "34CrAlNi7-10+QT    EN 10085"
+        },
+        "MAT0040": {
+            "Basic material: ": "X5CrNiCuNb16-4    EN 10088-3"
+        }
+    },
+    {
+        "index": 5,
+        "MAT0001": {
+            "Remarks: ": "Free-cutting steel"
+        },
+        "MAT0002": {
+            "Remarks: ": "Case hardening steel"
+        },
+        "MAT0003": {
+            "Remarks: ": "Case hardening steel"
+        },
+        "MAT0004": {
+            "Remarks: ": "High temperature steel"
+        },
+        "MAT0005": {
+            "Remarks: ": "Quenched and tempered steel"
+        },
+        "MAT0006": {
+            "Remarks: ": "Quenched and tempered steel"
+        },
+        "MAT0007": {
+            "Remarks: ": "Copper alloy"
+        },
+        "MAT0008": {
+            "Remarks: ": "Copper alloy"
+        },
+        "MAT0009": {
+            "Remarks: ": "Nodular cast iron"
+        },
+        "MAT0010": {
+            "Remarks: ": "Martensitic stainless steel"
+        },
+        "MAT0011": {
+            "Remarks: ": "Martensitic stainless steel"
+        },
+        "MAT0012": {
+            "Remarks: ": "Duplex stainless steel"
+        },
+        "MAT0013": {
+            "Remarks: ": "Martensitic stainless steel"
+        },
+        "MAT0014": {
+            "Remarks: ": "Austenitic stainless steel"
+        },
+        "MAT0015": {
+            "Remarks: ": "Austenitic stainless steel"
+        },
+        "MAT0016": {
+            "Remarks: ": "Nickel-based superalloy"
+        },
+        "MAT0017": {
+            "Remarks: ": "Case hardening steel"
+        },
+        "MAT0018": {
+            "Remarks: ": "Case hardening steel"
+        },
+        "MAT0019": {
+            "Remarks: ": "High temperature steel"
+        },
+        "MAT0020": {
+            "Remarks: ": "Nitriding steel"
+        },
+        "MAT0021": {
+            "Remarks: ": "Austenitic stainless steel"
+        },
+        "MAT0022": {
+            "Remarks: ": "Martensitic stainless steel"
+        },
+        "MAT0023": {
+            "Remarks: ": "Austenitic creep-resisting stainless steel"
+        },
+        "MAT0024": {
+            "Remarks: ": "Martensitic stainless steel"
+        },
+        "MAT0025": {
+            "Remarks: ": "Duplex stainless steel"
+        },
+        "MAT0026": {
+            "Remarks: ": "Copper alloy"
+        },
+        "MAT0027": {
+            "Remarks: ": "Copper alloy"
+        },
+        "MAT0028": {
+            "Remarks: ": "Copper alloy"
+        },
+        "MAT0029": {
+            "Remarks: ": "Case hardening steel"
+        },
+        "MAT0030": {
+            "Remarks: ": "High temperature steel"
+        },
+        "MAT0031": {
+            "Remarks: ": "Free-cutting steel"
+        },
+        "MAT0032": {
+            "Remarks: ": "Duplex stainless steel"
+        },
+        "MAT0033": {
+            "Remarks: ": "Quenched and tempered steel"
+        },
+        "MAT0034": {
+            "Remarks: ": "Copper alloy"
+        },
+        "MAT0035": {
+            "Remarks: ": "Martensitic creep-resisting steel"
+        },
+        "MAT0036": {
+            "Remarks: ": "Austenitic stainless steel"
+        },
+        "MAT0037": {
+            "Remarks: ": "Ferritic heat-resisting stainless steel"
+        },
+        "MAT0038": {
+            "Remarks: ": "Austenitic stainless steel for pressure purposes"
+        },
+        "MAT0039": {
+            "Remarks: ": "Nitriding steel"
+        },
+        "MAT0040": {
+            "Remarks: ": "Precipitation hardening stainless steel"
+        }
+    },
+    {
+        "index": 6,
+        "MAT0001": {
+            "Mass: ": 2.98404876
+        },
+        "MAT0002": {
+            "Mass: ": 1.57834
+        },
+        "MAT0003": {
+            "Mass: ": 7.54876
+        },
+        "MAT0004": {
+            "Mass: ": 0.887364
+        },
+        "MAT0005": {
+            "Mass: ": 385.337
+        },
+        "MAT0006": {
+            "Mass: ": 39.2072
+        },
+        "MAT0007": {
+            "Mass: ": 9.550464
+        },
+        "MAT0008": {
+            "Mass: ": 35.8293
+        },
+        "MAT0009": {
+            "Mass: ": 23.891868
+        },
+        "MAT0010": {
+            "Mass: ": 8.73269
+        },
+        "MAT0011": {
+            "Mass: ": 12.2463
+        },
+        "MAT0012": {
+            "Mass: ": 12.4054
+        },
+        "MAT0013": {
+            "Mass: ": 60.4758
+        },
+        "MAT0014": {
+            "Mass: ": 5.65488
+        },
+        "MAT0015": {
+            "Mass: ": 15.7
+        },
+        "MAT0016": {
+            "Mass: ": 10.3044
+        },
+        "MAT0017": {
+            "Mass: ": 178.089
+        },
+        "MAT0018": {
+            "Mass: ": 120.78
+        },
+        "MAT0019": {
+            "Mass: ": 554.8838024
+        },
+        "MAT0020": {
+            "Mass: ": 5.548851
+        },
+        "MAT0021": {
+            "Mass: ": 1.21611336
+        },
+        "MAT0022": {
+            "Mass: ": 43.6937
+        },
+        "MAT0023": {
+            "Mass: ": 3.3238128
+        },
+        "MAT0024": {
+            "Mass: ": 60.4758
+        },
+        "MAT0025": {
+            "Mass: ": 12.96286992
+        },
+        "MAT0026": {
+            "Mass: ": 33.57585
+        },
+        "MAT0027": {
+            "Mass: ": 1.62861
+        },
+        "MAT0028": {
+            "Mass: ": 11.1841
+        },
+        "MAT0029": {
+            "Mass: ": 18.65030475
+        },
+        "MAT0030": {
+            "Mass: ": 5.442822
+        },
+        "MAT0031": {
+            "Mass: ": 5.54885
+        },
+        "MAT0032": {
+            "Mass: ": 120.072
+        },
+        "MAT0033": {
+            "Mass: ": 26.0355
+        },
+        "MAT0034": {
+            "Mass: ": 0.85
+        },
+        "MAT0035": {
+            "Mass: ": 49.6215
+        },
+        "MAT0036": {
+            "Mass: ": 300.3048418
+        },
+        "MAT0037": {
+            "Mass: ": 0.604757
+        },
+        "MAT0038": {
+            "Mass: ": 565.4866776
+        },
+        "MAT0039": {
+            "Mass: ": 30.0179
+        },
+        "MAT0040": {
+            "Mass: ": 2.45044
+        }
+    },
+    {
+        "index": 7,
+        "MAT0001": {
+            "Density: ": 0.00000785
+        },
+        "MAT0002": {
+            "Density: ": 0.00000785
+        },
+        "MAT0003": {
+            "Density: ": 0.00000785
+        },
+        "MAT0004": {
+            "Density: ": 0.00000785
+        },
+        "MAT0005": {
+            "Density: ": 0.00000785
+        },
+        "MAT0006": {
+            "Density: ": 0.00000785
+        },
+        "MAT0007": {
+            "Density: ": 0.0000076
+        },
+        "MAT0008": {
+            "Density: ": 0.0000088
+        },
+        "MAT0009": {
+            "Density: ": 0.0000072
+        },
+        "MAT0010": {
+            "Density: ": 0.0000077
+        },
+        "MAT0011": {
+            "Density: ": 0.0000077
+        },
+        "MAT0012": {
+            "Density: ": 0.0000078
+        },
+        "MAT0013": {
+            "Density: ": 0.0000077
+        },
+        "MAT0014": {
+            "Density: ": 0.000008
+        },
+        "MAT0015": {
+            "Density: ": 0.000008
+        },
+        "MAT0016": {
+            "Density: ": 0.0000082
+        },
+        "MAT0017": {
+            "Density: ": 0.00000785
+        },
+        "MAT0018": {
+            "Density: ": 0.00000785
+        },
+        "MAT0019": {
+            "Density: ": 0.00000785
+        },
+        "MAT0020": {
+            "Density: ": 0.00000785
+        },
+        "MAT0021": {
+            "Density: ": 0.0000079
+        },
+        "MAT0022": {
+            "Density: ": 0.0000077
+        },
+        "MAT0023": {
+            "Density: ": 0.000008
+        },
+        "MAT0024": {
+            "Density: ": 0.0000077
+        },
+        "MAT0025": {
+            "Density: ": 0.0000078
+        },
+        "MAT0026": {
+            "Density: ": 0.0000076
+        },
+        "MAT0027": {
+            "Density: ": 0.0000081
+        },
+        "MAT0028": {
+            "Density: ": 0.0000089
+        },
+        "MAT0029": {
+            "Density: ": 0.00000785
+        },
+        "MAT0030": {
+            "Density: ": 0.0000077
+        },
+        "MAT0031": {
+            "Density: ": 0.00000785
+        },
+        "MAT0032": {
+            "Density: ": 0.0000078
+        },
+        "MAT0033": {
+            "Density: ": 0.00000785
+        },
+        "MAT0034": {
+            "Density: ": 0.0000076
+        },
+        "MAT0035": {
+            "Density: ": 0.0000078
+        },
+        "MAT0036": {
+            "Density: ": 0.0000079
+        },
+        "MAT0037": {
+            "Density: ": 0.0000077
+        },
+        "MAT0038": {
+            "Density: ": 0.000008
+        },
+        "MAT0039": {
+            "Density: ": 0.0000078
+        },
+        "MAT0040": {
+            "Density: ": 0.0000078
+        }
+    },
+    {
+        "index": 8,
+        "MAT0001": {
+            "Price: ": 12
+        },
+        "MAT0002": {
+            "Price: ": 14
+        },
+        "MAT0003": {
+            "Price: ": 9
+        },
+        "MAT0004": {
+            "Price: ": 7
+        },
+        "MAT0005": {
+            "Price: ": 13
+        },
+        "MAT0006": {
+            "Price: ": 6
+        },
+        "MAT0007": {
+            "Price: ": 7
+        },
+        "MAT0008": {
+            "Price: ": 10
+        },
+        "MAT0009": {
+            "Price: ": 11
+        },
+        "MAT0010": {
+            "Price: ": 7
+        },
+        "MAT0011": {
+            "Price: ": 12
+        },
+        "MAT0012": {
+            "Price: ": 11
+        },
+        "MAT0013": {
+            "Price: ": 13
+        },
+        "MAT0014": {
+            "Price: ": 6
+        },
+        "MAT0015": {
+            "Price: ": 14
+        },
+        "MAT0016": {
+            "Price: ": 13
+        },
+        "MAT0017": {
+            "Price: ": 14
+        },
+        "MAT0018": {
+            "Price: ": 11
+        },
+        "MAT0019": {
+            "Price: ": 14
+        },
+        "MAT0020": {
+            "Price: ": 14
+        },
+        "MAT0021": {
+            "Price: ": 15
+        },
+        "MAT0022": {
+            "Price: ": 15
+        },
+        "MAT0023": {
+            "Price: ": 7
+        },
+        "MAT0024": {
+            "Price: ": 5
+        },
+        "MAT0025": {
+            "Price: ": 12
+        },
+        "MAT0026": {
+            "Price: ": 9
+        },
+        "MAT0027": {
+            "Price: ": 9
+        },
+        "MAT0028": {
+            "Price: ": 14
+        },
+        "MAT0029": {
+            "Price: ": 9
+        },
+        "MAT0030": {
+            "Price: ": 6
+        },
+        "MAT0031": {
+            "Price: ": 6
+        },
+        "MAT0032": {
+            "Price: ": 12
+        },
+        "MAT0033": {
+            "Price: ": 14
+        },
+        "MAT0034": {
+            "Price: ": 7
+        },
+        "MAT0035": {
+            "Price: ": 8
+        },
+        "MAT0036": {
+            "Price: ": 6
+        },
+        "MAT0037": {
+            "Price: ": 7
+        },
+        "MAT0038": {
+            "Price: ": 10
+        },
+        "MAT0039": {
+            "Price: ": 12
+        },
+        "MAT0040": {
+            "Price: ": 7
+        }
+    }
+]
