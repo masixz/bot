@@ -50,7 +50,7 @@ def get_response(msg):
 if __name__ == "__main__":
     print("type 'quit' to exit the bot")
     while True:
-        sentence = input("Usersdf: ")
+        sentence = input("User: ")
         if sentence == "quit":
             break
 

@@ -53,6 +53,7 @@ class Chatbox {
             },
           })
           .then(r => r.json())
+          
           .then(r => {
             let msg2 = { name: "Bot", message: r.answer };
             this.messages.push(msg2);
@@ -70,7 +71,7 @@ class Chatbox {
         this.messages.slice().reverse().forEach(function(item, index) {
             if (item.name === "Bot")
             {
-                html += '<div class="messages__item messages__item--visitor">' + item.message + '</div>'
+                html += '<div class="messages__item messages__item--visitor">' + item.message + '<button value="[object Object]" class=" intercom-hk3j0s eqq3twc4" style="transform: translate3d(0px, 0px, 0px); max-width: 311px; opacity: 1;">Tein tilauksen ja tarvitsen apua 🙏🏼</button>' + '</div>'
             }
             else
             {
@@ -81,6 +82,7 @@ class Chatbox {
         const chatmessage = chatbox.querySelector('.chatbox__messages');
         chatmessage.innerHTML = html;
     }
+    
 
 }
 
