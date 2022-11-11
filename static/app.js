@@ -66,12 +66,15 @@ class Chatbox {
             textField.value = ''
           });
     }
+
+
     updateChatText(chatbox) {
         var html = '';
         this.messages.slice().reverse().forEach(function(item, index) {
             if (item.name === "Bot")
             {
-                html += '<div class="messages__item messages__item--visitor">' + item.message + '<button value="[object Object]" class=" intercom-hk3j0s eqq3twc4" style="transform: translate3d(0px, 0px, 0px); max-width: 311px; opacity: 1;">Tein tilauksen ja tarvitsen apua 🙏🏼</button>' + '</div>'
+                html += '<div class="messages__item messages__item--visitor">' + item.message + '<p>&nbsp;</p>' + '<button class="chatbox__send--footer send__button" onClick="openPopup()">Material</button> <button class="chatbox__send--footer send__button" onClick="openPopup()">Price</button>' + '<p>&nbsp;</p>' + '</div>'
+        
             }
             else
             {

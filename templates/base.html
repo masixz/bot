@@ -30,7 +30,7 @@
             </div>
         </div>
         <div class="chatbox__button">
-            <button><img src="https://cdn0.iconfinder.com/data/icons/business-finance-vol-3-18/512/24-512.png"  width = "50" height = "50" /></button>
+            <button><img src="https://cdn-icons-png.flaticon.com/512/61/61498.png"  width = "50" height = "50" /></button>
         </div>
     </div>
 </div>
@@ -39,6 +39,15 @@
         $SCRIPT_ROOT = "{{ request.script_root|tojson }}";
     </script>
     <script type="text/javascript" src="{{ url_for('static', filename='app.js') }}"></script>
+    <script>
+        function openPopup(){
+            let params = `scrollbars=no,resizable=no,status=no,location=no,toolbar=no,menubar=no,
+            width=600,height=400,left=700,top=100`;
+            window.open('moi.com', 'Materials', params);
+           
+        }
+    </script>
 
 </body>
 </html>
+
