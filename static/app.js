@@ -3,7 +3,8 @@ class Chatbox {
         this.args = {
             openButton: document.querySelector('.chatbox__button'),
             chatBox: document.querySelector('.chatbox__support'),
-            sendButton: document.querySelector('.send__button')
+            sendButton: document.querySelector('.send__button'),
+            zoomButton: document.querySelector('.zoom__button')
         }
 
         this.state = false;
@@ -11,11 +12,13 @@ class Chatbox {
     }
 
     display() {
-        const {openButton, chatBox, sendButton} = this.args;
+        const {openButton, chatBox, sendButton, zoomButton} = this.args;
 
         openButton.addEventListener('click', () => this.toggleState(chatBox))
 
         sendButton.addEventListener('click', () => this.onSendButton(chatBox))
+
+        zoomButton.addEventListener('click', () => this.zoom(chatBox))
 
         const node = chatBox.querySelector('input');
         node.addEventListener("keyup", ({key}) => {
@@ -34,6 +37,23 @@ class Chatbox {
             chatbox.classList.remove('chatbox--active')
         }
     }
+
+    zoom(chatbox){
+        this.state = !this.state;
+
+        if(this.state) {
+            const element = document.querySelector('.chatbox__support');
+            element.style.height = '450px';
+            element.style.width = '350px';
+        } else {
+            const element = document.querySelector('.chatbox__support');
+            element.style.height = '600px';
+            element.style.width = '650px';
+            const element2 = document.querySelector('.chatbox__header');
+            element2.style.position = 'sticky';
+        }
+    }
+    
     onSendButton(chatbox) {
         var textField = chatbox.querySelector('input');
         let text1 = textField.value
@@ -73,7 +93,7 @@ class Chatbox {
         this.messages.slice().reverse().forEach(function(item, index) {
             if (item.name === "Bot")
             {
-                html += '<div class="messages__item messages__item--visitor">' + item.message + '<p>&nbsp;</p>' + '<button class="chatbox__send--footer send__button" onClick="openPopup()">Material</button> <button class="chatbox__send--footer send__button" onClick="openPopup()">Price</button>' + '<p>&nbsp;</p>' + '</div>'
+                html += '<div class="messages__item messages__item--visitor">' + item.message + '<p>&nbsp;</p>' + '<button class="chatbox__send--footer send__button" onClick="openPopup()">Price</button>' + '<p>&nbsp;</p>' + '</div>'
         
             }
             else
@@ -85,6 +105,7 @@ class Chatbox {
         const chatmessage = chatbox.querySelector('.chatbox__messages');
         chatmessage.innerHTML = html;
     }
+
     
 
 }
