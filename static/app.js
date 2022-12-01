@@ -30,9 +30,10 @@ class Chatbox {
 
     toggleState(chatbox){
         this.state = !this.state;
-
+        
         if(this.state) {
             chatbox.classList.add('chatbox--active')
+            
         } else {
             chatbox.classList.remove('chatbox--active')
         }
@@ -91,14 +92,32 @@ class Chatbox {
     updateChatText(chatbox) {
         var html = '';
         this.messages.slice().reverse().forEach(function(item, index) {
+
+            //if (item.name === "Bot" && item.text1 == "mat0001"){
+                //html += '<div class="messages__item messages__item--visitor">' + item.message + '<p>&nbsp;</p>' + '<button class="chatbox__send--footer send__button" onClick="openPopup()">Price</button>' + '<p>&nbsp;</p>' + '</div>'
+
+            //}
+        let gg = "MAT0001"
+        // let vastaus = item.messages.includes(gg)
+
             if (item.name === "Bot")
             {
-                html += '<div class="messages__item messages__item--visitor">' + item.message + '<p>&nbsp;</p>' + '<button class="chatbox__send--footer send__button" onClick="openPopup()">Price</button>' + '<p>&nbsp;</p>' + '</div>'
-        
+                // for (let i = 0; i < cars.length; i++) {
+                //     text += cars[i] + "<br>";
+                //   }
+                  
+                if(item.text2.includes(gg)===true){
+                    html += '<div class="messages__item messages__item--visitor">' + item.message  + '<p>&nbsp;</p>' + '<button class="chatbox__send--footer send__button" onClick="openPopup()">Price</button>' + '<p>&nbsp;</p>'+'</div>'
+
+                }
+                else{
+                    html += '<div class="messages__item messages__item--visitor">' + item.message  + '</div>' 
+                }
+                
             }
             else
             {
-                html += '<div class="messages__item messages__item--operator">' + item.message + '</div>'
+                html += '<div class="messages__item messages__item--operator">' + item.message  + '</div>' 
             }
           });
 
@@ -106,7 +125,13 @@ class Chatbox {
         chatmessage.innerHTML = html;
     }
 
-    
+   // updateChatTextStart(chatbox){
+        //var html1 = '';
+            //message1= "Hi! Wlcome to the materialbot! You can search materials by using material codes. In left top corner is zoom button, if you want to zoom the window"
+            //html1 += '<div class="messages__item messages__item--visitor">' + item.message1 + '</div>'
+            //const chatmessage1 = chatbox.querySelector('.chatbox__messages');
+            //chatmessage1.innerHTML = html1;
+   // }
 
 }
 
