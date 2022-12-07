@@ -34,7 +34,7 @@ for i, key in enumerate(data):
     sdy10 = data[i]["eur_kg"]
 
     m = Data_Temp(tag=sdy1, patterns=[sdy1], responses=[
-                  sdy1, sdy2, sdy3, sdy4, sdy5, sdy6, sdy7, sdy8, sdy9, sdy10])
+                 "OBJ_ID_MAT: " +  sdy1, "Object_Name: " + sdy2, "Dimensions: " + sdy3, "Unit_Of_Measure: " +  sdy4, sdy5, sdy6, sdy7, sdy8, sdy9, sdy10])
 
     data321["intents"].append(m)
 

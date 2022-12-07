@@ -96,8 +96,7 @@ class Chatbox {
             //if (item.name === "Bot" && item.text1 == "mat0001"){
                 //html += '<div class="messages__item messages__item--visitor">' + item.message + '<p>&nbsp;</p>' + '<button class="chatbox__send--footer send__button" onClick="openPopup()">Price</button>' + '<p>&nbsp;</p>' + '</div>'
 
-            //}
-        let gg = "MAT0001"
+            
         // let vastaus = item.messages.includes(gg)
 
             if (item.name === "Bot")
@@ -105,15 +104,9 @@ class Chatbox {
                 // for (let i = 0; i < cars.length; i++) {
                 //     text += cars[i] + "<br>";
                 //   }
-                  
-                if(item.text2.includes(gg)===true){
                     html += '<div class="messages__item messages__item--visitor">' + item.message  + '<p>&nbsp;</p>' + '<button class="chatbox__send--footer send__button" onClick="openPopup()">Price</button>' + '<p>&nbsp;</p>'+'</div>'
 
-                }
-                else{
-                    html += '<div class="messages__item messages__item--visitor">' + item.message  + '</div>' 
-                }
-                
+               
             }
             else
             {
