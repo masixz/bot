@@ -93,17 +93,10 @@ class Chatbox {
         var html = '';
         this.messages.slice().reverse().forEach(function(item, index) {
 
-            //if (item.name === "Bot" && item.text1 == "mat0001"){
-                //html += '<div class="messages__item messages__item--visitor">' + item.message + '<p>&nbsp;</p>' + '<button class="chatbox__send--footer send__button" onClick="openPopup()">Price</button>' + '<p>&nbsp;</p>' + '</div>'
-
-            
-        // let vastaus = item.messages.includes(gg)
 
             if (item.name === "Bot")
             {
-                // for (let i = 0; i < cars.length; i++) {
-                //     text += cars[i] + "<br>";
-                //   }
+            
                     html += '<div class="messages__item messages__item--visitor">' + item.message  + '<p>&nbsp;</p>' + '<button class="chatbox__send--footer send__button" onClick="openPopup()">Price</button>' + '<p>&nbsp;</p>'+'</div>'
 
                
@@ -118,6 +111,7 @@ class Chatbox {
         chatmessage.innerHTML = html;
     }
 
+   
    // updateChatTextStart(chatbox){
         //var html1 = '';
             //message1= "Hi! Wlcome to the materialbot! You can search materials by using material codes. In left top corner is zoom button, if you want to zoom the window"
